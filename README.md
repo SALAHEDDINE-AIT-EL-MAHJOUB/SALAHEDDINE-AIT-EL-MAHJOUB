@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ait El Mahjoub Salaheddine</h1>
 <h3 align="center">Passionate Frontend Developer | Based in Morocco 🇲🇦</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salaheddineMHJ&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+
 
 ## 📚 About Me
 
@@ -55,21 +53,7 @@ I am a frontend developer passionate about creating smooth and interactive user 
 - **Collaboration** 👥 - Working effectively in teams to achieve common goals
 - **Continuous Learning** 📈 - Always up-to-date with the latest technologies and trends
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salaheddineMHJ&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salaheddineMHJ&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 💡 Featured Projects
-
-<a href="https://github.com/salaheddineMHJ/your-project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salaheddineMHJ&repo=your-project-name&theme=radical" />
-</a>
 
 ## 📬 Let's Connect
 
