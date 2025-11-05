@@ -74,9 +74,7 @@ I am a full stack developer passionate about creating smooth and interactive use
   <img src="https://github-readme-stats.vercel.app/api?username=SALAHEDDINE-AIT-EL-MAHJOUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SALAHEDDINE-AIT-EL-MAHJOUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALAHEDDINE-AIT-EL-MAHJOUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
