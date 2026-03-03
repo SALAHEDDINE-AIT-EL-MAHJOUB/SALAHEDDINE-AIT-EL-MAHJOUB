@@ -6,60 +6,61 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SALAHEDDINE-AIT-EL-MAHJOUB&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SALAHEDDINE-AIT-EL-MAHJOUB&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-## 📚 About Me
-
-I am a full stack developer passionate about creating smooth and interactive user experiences. I love turning ideas into functional and aesthetically pleasing web interfaces that solve real-world problems.
-
-- 🌱 Currently expanding my skills in **React, Node.js, and modern web technologies**
-- 🔭 Working on building **responsive and accessible web applications**
-- 👯 Open to collaborating on **innovative web projects and open source**
-- 💡 Interested in **Web Development, UI/UX Design, and Database Management**
-- 📫 Reach me at **salaheddineaitelmahjoub@gmail.com**
-
-## **Technology Arsenal**
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" />
+<p align="center">
+  <a href="https://github.com/SALAHEDDINE-AIT-EL-MAHJOUB">
+    <img src="https://img.shields.io/github/followers/SALAHEDDINE-AIT-EL-MAHJOUB?label=Followers&style=social" alt="Followers" />
+  </a>
 </p>
 
-### ⚙️ Backend
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" />
+## 🚀 About Me
+
+I am a **Full Stack Developer** dedicated to crafting seamless and interactive digital experiences. I specialize in bridging the gap between complex logic and intuitive user interfaces.
+
+- ⚡ **Focus:** Building scalable, performant, and accessible web solutions.
+- 🌱 **Learning:** Deep diving into **Cloud Architectures** and **Advanced React Patterns**.
+- 🔭 **Current Work:** Developing high-quality landing pages and robust backend APIs.
+- 👯 **Collaboration:** Open for open-source contributions and innovative startup projects.
+- 💡 **Philosophy:** "Code is like humor. When you have to explain it, it’s bad."
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+| Category | Icons |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea" /> |
+| **Other** | <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs" /> |
+
+</div>
+
+---
+
+## 📊 Performance & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SALAHEDDINE-AIT-EL-MAHJOUB&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALAHEDDINE-AIT-EL-MAHJOUB&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SALAHEDDINE-AIT-EL-MAHJOUB&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-</p>
-
-### 🛠️ Tools & Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea" />
-</p>
-
-### 🔧 Other
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs" />
-</p>
-
+---
 
 ## 🌟 What I Bring to the Table
+
 
 - **Creativity** ✨ - Transforming concepts into modern and intuitive designs
 - **Collaboration** 👥 - Working effectively in teams to achieve common goals
