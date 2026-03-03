@@ -34,7 +34,6 @@ I am a **Full Stack Developer** dedicated to crafting seamless and interactive d
 <div align="center">
 
 
-| :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" /> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /> |
@@ -45,6 +44,12 @@ I am a **Full Stack Developer** dedicated to crafting seamless and interactive d
 </div>
 
 ---
+
+
+
+
+
+
 
 ## 📈 Contribution Graph
 
