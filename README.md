@@ -1,74 +1,71 @@
-<h1 align="center">👋 Hi, I'm Ait El Mahjoub Salaheddine</h1>
-<h3 align="center">Passionate Full Stack Developer | Based in Morocco 🇲🇦</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ait%20El%20Mahjoub%20Salaheddine&fontSize=50&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SALAHEDDINE-AIT-EL-MAHJOUB&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Next.js+Expert;Backend+Architect;Problem+Solver+by+Nature" alt="Typing SVG" />
 </p>
-
-## 📚 About Me
-
-I am a full stack developer passionate about creating smooth and interactive user experiences. I love turning ideas into functional and aesthetically pleasing web interfaces that solve real-world problems.
-
-- 🌱 Currently expanding my skills in **React, Node.js, and modern web technologies**
-- 🔭 Working on building **responsive and accessible web applications**
-- 👯 Open to collaborating on **innovative web projects and open source**
-- 💡 Interested in **Web Development, UI/UX Design, and Database Management**
-- 📫 Reach me at **salaheddineaitelmahjoub@gmail.com**
-
-## **Technology Arsenal**
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
-</p>
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-</p>
-
-### 🛠️ Tools & Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea" />
-</p>
-
-### 🔧 Other
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs" />
-</p>
-
-
-
-
-
-## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SALAHEDDINE-AIT-EL-MAHJOUB&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://komarev.com/ghpvc/?username=SALAHEDDINE-AIT-EL-MAHJOUB&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/SALAHEDDINE-AIT-EL-MAHJOUB">
+    <img src="https://img.shields.io/github/followers/SALAHEDDINE-AIT-EL-MAHJOUB?label=Followers&style=social" alt="Followers" />
+  </a>
 </p>
 
-## 📬 Let's Connect
+## 🚀 À propos de moi
+
+Passionné par l'écosystème web, je transforme des idées complexes en applications fluides et scalables. Basé au **Maroc 🇲🇦**, je jongle entre la rigueur du Backend et la créativité du Frontend.
+
+- 🎯 **Focus actuel :** Maîtrise des architectures Cloud et des micro-services.
+- 💡 **Philosophie :** "Code is like humor. When you have to explain it, it’s bad."
+- 🌱 **En apprentissage :** Kubernetes & Go.
+
+---
+
+## 🛠️ Mon Arsenal Technique
+
+### 💻 Frontend & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,flutter,dart" />
+</p>
+
+### ⚙️ Backend & Bases de données
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php,mysql,mongodb,firebase,postgres" />
+</p>
+
+### 🔧 Outils & Environnement
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,idea,arduino,c,cpp" />
+</p>
+
+---
+
+## 📂 Projets Sélectionnés
+
+| Projet | Description | Stack | Lien |
+| :--- | :--- | :--- | :---: |
+| **Portfolio Pro** | Mon site vitrine moderne avec Next.js 14. | `Next.js`, `Three.js` | [Voir](https://aitelmahjoub.tech) |
+| **E-Commerce API** | Microservices pour une plateforme de vente. | `Spring Boot`, `Docker` | [Repo](#) |
+| **App Mobile** | Solution de gestion de tâches en temps réel. | `Flutter`, `Firebase` | [Repo](#) |
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SALAHEDDINE-AIT-EL-MAHJOUB&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALAHEDDINE-AIT-EL-MAHJOUB&layout=compact&theme=tokyo-night&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SALAHEDDINE-AIT-EL-MAHJOUB&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 📬 Contactons-nous !
 
 <p align="center">
   <a href="https://linkedin.com/in/salaheddine-ait-el-mahjoub" target="_blank">
@@ -77,17 +74,11 @@ I am a full stack developer passionate about creating smooth and interactive use
   <a href="mailto:salaheddineaitelmahjoub@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
- <a href="https://aitelmahjoub.tech" target="_blank">
+  <a href="https://aitelmahjoub.tech" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>⭐ Thanks for visiting my profile! Let's build something amazing together. ⭐</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
