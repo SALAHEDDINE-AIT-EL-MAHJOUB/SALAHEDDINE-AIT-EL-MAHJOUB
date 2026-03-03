@@ -23,7 +23,7 @@ Passionné par l'écosystème web, je transforme des idées complexes en applica
 
 ---
 
-## 🛠️ Mon Arsenal Technique
+## 🛠️ Technology 
 
 ### 💻 Frontend & Mobile
 <p align="left">
@@ -42,8 +42,6 @@ Passionné par l'écosystème web, je transforme des idées complexes en applica
 
 ---
 
-
----
 
 ## 📊 Statistiques GitHub
 
