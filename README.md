@@ -6,45 +6,57 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SALAHEDDINE-AIT-EL-MAHJOUB&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SALAHEDDINE-AIT-EL-MAHJOUB&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/SALAHEDDINE-AIT-EL-MAHJOUB">
-    <img src="https://img.shields.io/github/followers/SALAHEDDINE-AIT-EL-MAHJOUB?label=Followers&style=social" alt="Followers" />
-  </a>
+## 📚 About Me
+
+I am a full stack developer passionate about creating smooth and interactive user experiences. I love turning ideas into functional and aesthetically pleasing web interfaces that solve real-world problems.
+
+- 🌱 Currently expanding my skills in **React, Node.js, and modern web technologies**
+- 🔭 Working on building **responsive and accessible web applications**
+- 👯 Open to collaborating on **innovative web projects and open source**
+- 💡 Interested in **Web Development, UI/UX Design, and Database Management**
+- 📫 Reach me at **salaheddineaitelmahjoub@gmail.com**
+
+## **Technology Arsenal**
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" />
 </p>
 
----
+### ⚙️ Backend
 
-## 🚀 About Me
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" />
+</p>
 
-I am a **Full Stack Developer** dedicated to crafting seamless and interactive digital experiences. I specialize in bridging the gap between complex logic and intuitive user interfaces.
+### 🗄️ Databases
 
-- ⚡ **Focus:** Building scalable, performant, and accessible web solutions.
-- 🌱 **Learning:** Deep diving into **Cloud Architectures** and **Advanced React Patterns**.
-- 🔭 **Current Work:** Developing high-quality landing pages and robust backend APIs.
-- 👯 **Collaboration:** Open for open-source contributions and innovative startup projects.
-- 💡 **Philosophy:** "Code is like humor. When you have to explain it, it’s bad."
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
+</p>
 
----
+### 📱 Mobile Development
 
-## 🛠️ Technology Arsenal
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
 
-<div align="center">
+### 🛠️ Tools & Version Control
 
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea" /> |
-| **Other** | <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs" /> |
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea" />
+</p>
 
-</div>
+### 🔧 Other
 
----
-
-
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs" />
+</p>
 
 
 
