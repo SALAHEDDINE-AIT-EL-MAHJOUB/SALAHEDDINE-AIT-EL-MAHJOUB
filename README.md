@@ -42,22 +42,11 @@ Passionné par l'écosystème web, je transforme des idées complexes en applica
 
 ---
 
-## 📂 Projets Sélectionnés
-
-| Projet | Description | Stack | Lien |
-| :--- | :--- | :--- | :---: |
-| **Portfolio Pro** | Mon site vitrine moderne avec Next.js 14. | `Next.js`, `Three.js` | [Voir](https://aitelmahjoub.tech) |
-| **E-Commerce API** | Microservices pour une plateforme de vente. | `Spring Boot`, `Docker` | [Repo](#) |
-| **App Mobile** | Solution de gestion de tâches en temps réel. | `Flutter`, `Firebase` | [Repo](#) |
 
 ---
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SALAHEDDINE-AIT-EL-MAHJOUB&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALAHEDDINE-AIT-EL-MAHJOUB&layout=compact&theme=tokyo-night&hide_border=true" height="180" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SALAHEDDINE-AIT-EL-MAHJOUB&theme=tokyo-night&hide_border=true" width="100%" />
