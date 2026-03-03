@@ -33,7 +33,7 @@ I am a **Full Stack Developer** dedicated to crafting seamless and interactive d
 
 <div align="center">
 
-| Category | Icons |
+
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" /> |
@@ -45,33 +45,6 @@ I am a **Full Stack Developer** dedicated to crafting seamless and interactive d
 </div>
 
 ---
-
-## 📊 Performance & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SALAHEDDINE-AIT-EL-MAHJOUB&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALAHEDDINE-AIT-EL-MAHJOUB&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SALAHEDDINE-AIT-EL-MAHJOUB&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
-
----
-
-## 🌟 What I Bring to the Table
-
-
-- **Creativity** ✨ - Transforming concepts into modern and intuitive designs
-- **Collaboration** 👥 - Working effectively in teams to achieve common goals
-- **Continuous Learning** 📈 - Always up-to-date with the latest technologies and trends
-- **Problem Solving** 🧩 - Analytical approach to debugging and optimization
-- **Clean Code** 💎 - Writing maintainable and well-documented code
-
-
-
-
-
 
 ## 📈 Contribution Graph
 
