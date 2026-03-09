@@ -1,10 +1,19 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ait%20El%20Mahjoub%20Salaheddine&fontSize=50&animation=fadeIn" />
-</p>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=console.log('Ait+El+Mahjoub+Salaheddine')&center=true&size=20)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Next.js+Expert;Backend+Architect;Problem+Solver+by+Nature" alt="Typing SVG" />
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/top_img.gif" />
+  <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/top_img.gif" />
+</picture>
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SALAHEDDINE-AIT-EL-MAHJOUB&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
@@ -13,17 +22,7 @@
   </a>
 </p>
 
-## 🚀 À propos de moi
-
-Passionné par l'écosystème web, je transforme des idées complexes en applications fluides et scalables. Basé au **Maroc 🇲🇦**, je jongle entre la rigueur du Backend et la créativité du Frontend.
-
-- 🎯 **Focus actuel :** Maîtrise des architectures Cloud et des micro-services.
-- 💡 **Philosophie :** "Code is like humor. When you have to explain it, it’s bad."
-- 🌱 **En apprentissage :** Kubernetes & Go.
-
----
-
-## 🛠️ Technology 
+# 💻 Tech Stack:
 
 ### 💻 Frontend & Mobile
 <p align="left">
@@ -40,19 +39,16 @@ Passionné par l'écosystème web, je transforme des idées complexes en applica
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,idea,arduino,c,cpp" />
 </p>
 
----
+------
+## 🚀 À propos de moi
 
+Passionné par l'écosystème web, je transforme des idées complexes en applications fluides et scalables. Basé au **Maroc 🇲🇦**, je jongle entre la rigueur du Backend et la créativité du Frontend.
 
-## 📊 Statistiques GitHub
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SALAHEDDINE-AIT-EL-MAHJOUB&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-## 📬 Contactons-nous !
+- 🎯 **Focus actuel :** Maîtrise des architectures Cloud et des micro-services.
+- 💡 **Philosophie :** "Code is like humor. When you have to explain it, it’s bad."
+- 🌱 **En apprentissage :** Kubernetes & Go.
+--------
+## 📬 Contactez-moi !
 
 <p align="center">
   <a href="https://linkedin.com/in/salaheddine-ait-el-mahjoub" target="_blank">
