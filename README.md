@@ -26,7 +26,7 @@
 
 ### 💻 Frontend & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,flutter" />
 </p>
 
 ### ⚙️ Backend & Bases de données
@@ -36,7 +36,7 @@
 
 ### 🔧 Outils & Environnement
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,idea,arduino,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,,vscode,c," />
 </p>
 
 ------
