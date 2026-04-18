@@ -36,7 +36,7 @@
 
 ### 🔧 Outils & Environnement
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,c" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode((((((((((" />
 </p>
 
 ------
