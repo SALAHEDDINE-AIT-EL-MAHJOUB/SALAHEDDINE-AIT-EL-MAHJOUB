@@ -31,12 +31,12 @@
 
 ### ⚙️ Backend & Bases de données
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php,mysql,mongodb,firebase,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,mongodb,firebase,postgres" />
 </p>
 
 ### 🔧 Outils & Environnement
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,,vscode,c," />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,c" />
 </p>
 
 ------
