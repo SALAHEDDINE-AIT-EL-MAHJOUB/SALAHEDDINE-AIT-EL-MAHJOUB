@@ -40,14 +40,7 @@
 </p>
 
 ------
-## 🚀 À propos de moi
 
-Passionné par l'écosystème web, je transforme des idées complexes en applications fluides et scalables. Basé au **Maroc 🇲🇦**, je jongle entre la rigueur du Backend et la créativité du Frontend.
-
-- 🎯 **Focus actuel :** Maîtrise des architectures Cloud et des micro-services.
-- 💡 **Philosophie :** "Code is like humor. When you have to explain it, it’s bad."
-- 🌱 **En apprentissage :** Kubernetes & Go.
---------
 ## 📬 Contactez-moi !
 
 <p align="center">
