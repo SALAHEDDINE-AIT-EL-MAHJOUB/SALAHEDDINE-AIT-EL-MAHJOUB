@@ -39,22 +39,4 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode((((((((((" />
 </p>
 
-------
 
-## 📬 Contactez-moi !
-
-<p align="center">
-  <a href="https://linkedin.com/in/salaheddine-ait-el-mahjoub" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:salaheddineaitelmahjoub@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://aitelmahjoub.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-</p>
