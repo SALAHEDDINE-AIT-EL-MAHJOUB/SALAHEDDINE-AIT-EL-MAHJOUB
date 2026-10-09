@@ -10,7 +10,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/top_img.gif" />
-  <img src="[https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/top_img.gif](https://github.com/SALAHEDDINE-AIT-EL-MAHJOUB/SALAHEDDINE-AIT-EL-MAHJOUB/blob/main/gif.gif)" />
+  <img src="https://github.com/SALAHEDDINE-AIT-EL-MAHJOUB/SALAHEDDINE-AIT-EL-MAHJOUB/blob/main/gif.gif" />
 </picture>
 </div>
 
