@@ -24,19 +24,44 @@
 
 # 💻 Tech Stack:
 
-### 💻 Frontend & Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,flutter" />
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" />
 </p>
 
-### ⚙️ Backend & Bases de données
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,mongodb,firebase,postgres" />
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" />
 </p>
 
-### 🔧 Outils & Environnement
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode((((((((((" />
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
 </p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### 🛠️ Tools & Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea" />
+</p>
+
+### 🔧 Other
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs" />
+</p>
+
+---
 
 
